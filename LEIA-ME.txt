@@ -1,0 +1,25 @@
+BETANIA MONTEIRO RH — SITE HTML, CSS E JAVASCRIPT
+
+ARQUIVOS
+- index.html: página inicial com serviços para pessoas e empresas reunidos
+- talentos.html: banco de talentos e vagas diversas
+- carretas.html: candidatura para Carretas da Saúde
+- estagio.html: oportunidades de estágio
+- styles.css: visual, cores, responsividade e animações
+- app.js: menu, links de formulários e WhatsApp
+- config.js: local para editar o número de WhatsApp e URLs dos formulários
+- assets/logo.png: coloque aqui a logo da Betania Monteiro RH
+
+ANTES DE PUBLICAR
+1. Abra config.js.
+2. Troque 5581999999999 pelo número de WhatsApp real, com código do Brasil + DDD + número, somente dígitos.
+3. Troque os links de exemplo em forms pelos links reais dos formulários externos.
+4. Coloque a logo em assets/logo.png. Preferencialmente PNG com fundo transparente.
+5. Abra index.html no navegador para testar. Todos os arquivos precisam permanecer na mesma estrutura de pastas.
+6. Publique a pasta completa em uma hospedagem estática (ex.: GitHub Pages, Netlify ou outra).
+
+IMPORTANTE
+- Os links dos formulários são marcadores de exemplo até serem substituídos.
+- O WhatsApp também é um número de exemplo até você editá-lo em config.js.
+- O site não armazena candidaturas. Os dados são coletados pelo formulário externo que você configurar.
+- Para publicar, revise textos, links, política de privacidade e informações de contato.
