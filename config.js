@@ -8,9 +8,9 @@ window.SITE_CONFIG = {
   whatsapp: "5581991935163",
   forms: {
     talentos: "https://forms.gle/COLOQUE-SEU-FORMULARIO",
-    carretas: "https://forms.gle/COLOQUE-SEU-FORMULARIO",
-    estagio: "https://forms.gle/COLOQUE-SEU-FORMULARIO",
-    empresas: "https://forms.gle/COLOQUE-SEU-FORMULARIO",
+    carretas: "https://forms.gle/cVieEK8irkxtreqH7",
+    estagio: "https://forms.gle/ahXndja9jri67i138",
+    empresas: "https://forms.gle/COLOQUE-SEU-FORMULARI",
     servicos: "https://forms.gle/COLOQUE-SEU-FORMULARIO"
   }
 };
