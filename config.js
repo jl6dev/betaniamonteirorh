@@ -5,7 +5,7 @@
   Troque cada URL de formulário pelo link real (Google Forms, Microsoft Forms etc.).
 */
 window.SITE_CONFIG = {
-  whatsapp: "5581986114459",
+  whatsapp: "5581991935163",
   forms: {
     talentos: "https://forms.gle/COLOQUE-SEU-FORMULARIO",
     carretas: "https://forms.gle/COLOQUE-SEU-FORMULARIO",
